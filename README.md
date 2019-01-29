@@ -1,7 +1,6 @@
 # Repositório para a disciplina de Desenvolvimento de Sistemas Web 1
-
-> Projeto de rede de apoio para mulheres
-> Support network for women
+### Projeto de rede de apoio para mulheres
+### Support network for women
 
 ## Comandos para rodar o projeto de forma local
 
